@@ -14,12 +14,12 @@ Full-stack AI chat interface with TypeScript, React, Node.js - Verba AI Task
 - **CORS** enabled for cross-origin requests
 
 ## Features
- Real-time chat interface
- Message history with timestamps
- Typing indicator animation
- Error handling
- Mobile-responsive design
- Rule-based mock AI responses
+-Real-time chat interface  
+-Message history with timestamps  
+-Typing indicator animation  
+-Error handling  
+-Mobile-responsive design  
+-Rule-based mock AI responses  
 
  ## How to Run
 
